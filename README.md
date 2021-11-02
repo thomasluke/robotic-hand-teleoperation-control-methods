@@ -1,4 +1,4 @@
-# Robotic-Hand-Teleoperation-Control-Methods
+# Evaluation of Robotic Hand Teleoperation Control Methods - Capstone Research
 
 This capstone research objectively evaluates and compares new glove and wireless hand tracking control solutions (Leap Motion Controller) for teleoperation of robotic hand manipulators. A new hybrid control method combining both gloved and wireless hand tracking control will also be proposed and evaluated to determine whether any benefits can be observed. The goal of this is to determine the strengths and weaknesses of each robotic hand control method to inform real world applications and direct future research of hand tracking control technologies.
 
