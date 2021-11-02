@@ -8,12 +8,12 @@ This capstone research objectively evaluates and compares new glove and wireless
 ## How to Run Program
 1. Install Leap Motion drivers and SDK software V2.3.1.31549 for Windows. 
 2. Install link: https://developer-archive.leapmotion.com/v2?id=skeletal-beta&platform=windows&version=2.3.1.31549 
-3. Install and setup Python 2 (Python 3 not supported by Leap Motion Controller) 
+3. Install and setup Python 2 (Python 3 not supported by Leap Motion Controller). 
 4. Open terminal window in robot-hand-leap-motion-teleoperation folder.
-5. Type "main.py" in terminal window to run code
+5. Type "main.py" in terminal window to run code.
 6. Type '1', '2', '3', '4', '5' or '6' in terminal window to select control method.
-7. Keyboard control mode bindings: shift: Thumb, q: pointer finger, w: middle finger, e: ring finger, r: pinky finger
-8. Glove control mode: equip flex sensor control glove
+7. Keyboard control mode bindings: shift: Thumb, q: pointer finger, w: middle finger, e: ring finger, r: pinky finger.
+8. Glove control mode: equip flex sensor control glove.
 8. Leap Motion control mode: place hand above Leap Motion Controller.
 10. Combined control modes: equip flex sensor control glove and place hand above Leap Motion Controller.  
 
