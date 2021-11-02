@@ -15,4 +15,4 @@ This capstone research objectively evaluates and compares new glove and wireless
 10. Combined control modes: equip flex sensor control glove and place hand above Leap Motion Controller.  
 
 ## Electrical Wiring Block Diagram
-![alt text](/images/electrical wiring block diagram.png?raw=true)
+![picture](/images/electrical wiring block diagram.png?raw=true)
