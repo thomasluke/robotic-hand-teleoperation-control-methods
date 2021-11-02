@@ -2,6 +2,8 @@
 
 This capstone research objectively evaluates and compares new glove and wireless hand tracking control solutions (Leap Motion Controller) for teleoperation of robotic hand manipulators. A new hybrid control method combining both gloved and wireless hand tracking control will also be proposed and evaluated to determine whether any benefits can be observed. The goal of this is to determine the strengths and weaknesses of each robotic hand control method to inform real world applications and direct future research of hand tracking control technologies.
 
+![picture](/images/complete_robotic_system.jpg?raw=true "Complete Robotic Hand System")
+
 ## How to Run Program
 1. Install Leap Motion drivers and SDK software V2.3.1.31549 for Windows. 
 2. Install link: https://developer-archive.leapmotion.com/v2?id=skeletal-beta&platform=windows&version=2.3.1.31549 
